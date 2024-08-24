@@ -1,0 +1,14 @@
+Start,Ziel,Entfernung
+Hamburg,Lüneburg,50
+Hamburg,Hannover,150
+Hannover,Fulda,261
+Lüneburg,Magdeburg,202
+Fulda,Bamberg,150
+Fulda,Würzburg,101
+Magdeburg,Bamberg,342
+Magdeburg,Bayreuth,296
+Würzburg,Ulm,196
+Würzburg,Nürnberg,109
+Bayreuth,Nürnberg,72
+Nürnberg,München,143
+Ulm,München,144

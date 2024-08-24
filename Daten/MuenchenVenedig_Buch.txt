@@ -1,0 +1,17 @@
+Start,Ziel,Entfernung
+München,Wasserburg,60
+München,Rosenheim,89
+München,Brenner,198
+Wasserburg,Rosenheim,28
+Rosenheim,Brenner,162
+Rosenheim,Salzburg,92
+Rosenheim,Kitzbühel,70
+Salzburg,Tolmezzo,256
+Brenner,Trient,124
+Brenner,Innichen,83
+Kitzbühel,Innichen,135
+Kitzbühel,Tolmezzo,173
+Trient,Treviso,136
+Innichen,Treviso,151
+Tolmezzo,Venedig,160
+Treviso,Venedig,38
